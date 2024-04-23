@@ -78,3 +78,6 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # NasaApp-React-Native
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-23 at 11 08 08](https://github.com/danielullauri93/NasaApp-React-Native/assets/68368188/45681ee1-8041-43ee-9185-c0875fb5f9d8)
+
